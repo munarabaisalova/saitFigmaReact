@@ -1,0 +1,76 @@
+.about{
+  margin-top: 200px;
+   
+}
+.homs{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.hom{
+    display: flex;
+    
+}
+.homs1{
+    font-size: 26px;
+    color: rgba(98, 208, 223, 1);
+    font-weight: bold;
+}
+.homs2{
+    margin: 30px;
+    font-size: 16px;
+    color: rgba(34, 53, 111, 1);
+    text-decoration: none;
+}
+.homs2:hover{
+    color: rgba(98, 208, 223, 1);
+}
+.btn{
+    width: 150px;
+    height: 50px;
+    border-radius: 50px;
+    color: antiquewhite;
+    background: rgba(98, 208, 223, 1);
+    font-size: 14px;
+    border: none;
+}
+.zero{
+    margin-top: 50px;
+width: 570px;
+height: 167px;
+color: 
+rgba(34, 53, 111, 1);
+font-size: 40px;
+}
+.zero2{
+    width: 500px;
+    height: 161px;
+    color: rgba(34, 53, 111, 1);
+    font-size: 23px;
+    margin-top: 15px;
+}
+.zeroBtn{
+    width: 150px;
+    height: 50px;
+    background: rgba(249, 182, 64, 1);
+    color: white;
+    font-size: 16px;
+    border: none;
+    margin-right: 90px;
+}
+.zeroBtn:hover{
+    width: 150px;
+    height: 50px;
+    color: rgba(249, 182, 64, 1);
+    background: white;
+    font-size: 16px;
+    border: none;
+}
+.aboutBl{
+    display: flex;
+    align-items: center;
+}
+.imgz{
+    width: 700px;
+    height: 670px;
+  }

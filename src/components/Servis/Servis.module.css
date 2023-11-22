@@ -1,0 +1,23 @@
+.servis{
+    display: flex;
+}
+.serv{
+    background-color: rgba(98, 208, 223, 1);
+    width: 800px;
+    height: 504px;
+}
+.imges1{
+    width: 425px;
+    height: 504px;
+}
+.servText{
+    font-size: 36px;
+    color: rgba(255, 255, 255, 1);
+   margin: 140px ;
+}
+.tex{
+    width: 525px;
+    color:rgba(255, 255, 255, 1) ;
+    margin: 0px 140px;
+    font-size: 20px;
+}

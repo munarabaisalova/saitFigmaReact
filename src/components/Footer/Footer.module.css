@@ -1,0 +1,35 @@
+.foot{
+    display: flex;
+}
+
+.footInfo h1{
+font-size: 16px;
+color: rgba(34, 53, 111, 1);
+}
+.footInfo p{
+    margin-top: 50px;
+    width: 190px;
+    height: 115px;
+    color: 
+    rgba(34, 53, 111, 0.5);
+    font-size: 14px;
+}
+.footIn{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 30px;
+}
+.footInfo span{
+   
+    width: 190px;
+    height: 115px;
+    color: 
+    rgba(0, 109, 255, 1);
+    font-size: 16px;
+}
+.bluefoot{
+    width: 1200px;
+    height: 150px;
+    background-color: rgba(98, 208, 223, 1);
+}

@@ -1,0 +1,88 @@
+.laout{
+    display: flex;
+}
+.laout img{
+    width: 480px;
+    height: 600px;
+}
+.lao{
+    height: 600px;
+    width: 720px;
+}
+.lao h2{
+    margin: 100px;
+    font-size: 16px;
+    color: 
+    rgba(34, 53, 111, 1);
+
+}
+.lao p{
+    margin-top: 150px;
+    margin-left: 100px;
+    width: 500px;
+    height: 215px;
+    font-size: 33px;
+    color: 
+    rgba(34, 53, 111, 1);
+    
+}
+.lao span{
+    color: 
+    rgba(108, 211, 225, 1);
+    font-size: 33px;
+}
+.lao h3{
+    margin-left: 100px;
+    font-size: 16px;
+    color: 
+    rgba(250, 182, 62, 1);
+}
+
+.laout1{
+    display: flex;
+}
+.laout1 img{
+    width: 480px;
+    height: 600px;
+}
+.lao1{
+    height: 600px;
+    width: 720px;
+    background-color:rgba(34, 53, 111, 1);
+    
+     
+    }
+    .lao1 h1{
+        margin-left: 100px;
+        font-size: 54px;
+        color: 
+        
+rgba(255, 255, 255, 1);
+    
+    }
+    
+   
+.lao1 h2{
+    margin: 100px;
+    font-size: 16px;
+    color: 
+    rgba(255, 255, 255, 1);
+
+}
+.lao1 p{
+   
+    margin-left: 100px;
+   width: 500px;
+    font-size: 30px;
+    color: 
+     rgba(255, 255, 255, 1);
+}
+    
+
+
+.lao1 h3{
+    margin-left: 100px;
+    font-size: 16px;
+    color: 
+    rgba(98, 208, 223, 1);
+}
